@@ -10,7 +10,7 @@ import lombok.Getter;
  * @description 自定义模板配置
  */
 
-public class YueGodTemplateConfiguration extends TemplateConfig {
+public class YueGodTemplateConfiguration {
 
     @Getter
     private final TemplateConfig templateConfig;
