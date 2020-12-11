@@ -2,7 +2,6 @@ package io.github.yuegod.mybaits.plus.configuration;
 
 import lombok.Data;
 import lombok.experimental.Accessors;
-import org.springframework.boot.context.properties.ConfigurationProperties;
 
 /**
  * @author YueGod
