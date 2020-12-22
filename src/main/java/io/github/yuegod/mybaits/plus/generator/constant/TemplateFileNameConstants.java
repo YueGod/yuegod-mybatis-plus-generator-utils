@@ -1,4 +1,4 @@
-package io.github.yuegod.mybaits.plus.constant;
+package io.github.yuegod.mybaits.plus.generator.constant;
 
 /**
  * @author YueGod

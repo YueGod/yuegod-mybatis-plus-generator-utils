@@ -1,7 +1,8 @@
-package io.github.yuegod.mybaits.plus.configuration;
+package io.github.yuegod.mybaits.plus.generator.configuration;
 
 import com.baomidou.mybatisplus.generator.config.TemplateConfig;
-import io.github.yuegod.mybaits.plus.constant.TemplateFileNameConstants;
+import io.github.yuegod.mybaits.plus.generator.constant.TemplateFileNameConstants;
+import io.github.yuegod.mybaits.plus.generator.property.MybatisGeneratorProperties;
 import lombok.Getter;
 
 /**
